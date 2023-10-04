@@ -1,2 +1,2 @@
 # disinfector-trainer
-Small Python tool to that applies Autostart Extensibility Points with calc.exe
+Small Python tool that applies Autostart Extensibility Points with calc.exe. I use it for malware analysis training.
